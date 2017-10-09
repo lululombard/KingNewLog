@@ -1,0 +1,6 @@
+name: KingNewLog
+main: com.lululombard.kingnewlog.KingNewLog
+version: 1.0
+author: lululombard
+depend: [LogBlock]
+softdepend: [Multiverse, 'Multiverse-Core']
